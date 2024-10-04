@@ -181,7 +181,7 @@ Happy Hacktoberfest! 🎉
 
 ## 🎯 Maintainers
 
-- **Saket Rathi* - _Technical Lead_
+- **Saket Rathi** - _Technical Lead_
 - **Vaishvik Jaiswal** - _Technical Co-Lead_
 - **Adesh Bode** - _Technical Elite Member_
 - **Ikshit Talera** - _Technical Elite Member_
