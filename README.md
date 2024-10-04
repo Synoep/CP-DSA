@@ -28,35 +28,17 @@ The repository is organized based on the source platform and problem difficulty.
 ```
 CP-DSA/
 ├── LeetCode/
-│   ├── Easy/
-│   │   ├── Two_Sum.md
-│   │   ├── Reverse_Integer.md
-│   │   └── ...
-│   ├── Medium/
-│   │   ├── Add_Two_Numbers.md
-│   │   ├── Longest_Substring_Without_Repeating_Characters.md
-│   │   └── ...
-│   └── Hard/
-│       ├── Median_of_Two_Sorted_Arrays.md
-│       ├── Trapping_Rain_Water.md
-│       └── ...
+│   ├── Two_Sum.md
+│   ├── Reverse_Integer.md
+│   ├── Add_Two_Numbers.md
+│   ├── Longest_Substring_Without_Repeating_Characters.md
+│   └── ...
 ├── HackerRank/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
+      ├── ...
 ├── CodeChef/
-│   ├── Beginner/
-│   ├── Intermediate/
-│   └── Advanced/
+      ├── ...
 ├── NeetCode/
-│   ├── Patterns/
-│   │   ├── Sliding_Window.md
-│   │   ├── Two_Pointers.md
-│   │   └── ...
-│   └── Topics/
-│       ├── Array.md
-│       ├── String.md
-│       └── ...
+      ├── ...
 ├── README.md
 └── CONTRIBUTING.md
 ```
@@ -255,7 +237,6 @@ We’re excited to see your contributions! Let's build a strong community of pro
 
    ```
    LeetCode/
-   ├── Easy/
    │   ├── Two_Sum.md
    │   └── Solutions/
    │       ├── JavaScript/
